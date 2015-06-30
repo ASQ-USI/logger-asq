@@ -1,0 +1,22 @@
+{
+  "name": "logger-asq",
+  "version": "0.0.0",
+  "description": "Common logger functionality for ASQ services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASQ-USI/logger-asq"
+  },
+  "author": "Vasileios Triglianos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASQ-USI/logger-asq/issues"
+  },
+  "homepage": "https://github.com/ASQ-USI/logger-asq",
+  "dependencies": {
+    "bunyan": "^1.4.0"
+  }
+}
