@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ASQ-USI/logger-asq",
   "dependencies": {
-    "bunyan": "^1.4.0"
+    "bunyan": "^1.8.5"
   }
 }
